@@ -2,7 +2,8 @@
 
 A script for solving elevation networks in geodesy with Least Squares Method, but not for profesional use as it may contain bugs<br/>
 Input --> Ortho Heights in .txt<br/>
-Output --> Corrected Ortho Heights in .txt and info about the Network Quality
+Output --> Corrected Ortho Heights in .txt and info about the Network Quality <br/>
+Requires Numpy and FPDF librarys to run
 
 ---
 
@@ -12,6 +13,7 @@ Output --> Corrected Ortho Heights in .txt and info about the Network Quality
 - Outputs a .txt with the Corrected Ortho Heights
 - Generates A PDF file with the report of the Network Quality which contains every points height with its error (from covariance matrix), Sigma 0 value and Residuals of every height
 
+---
 
 # Input Data
 
