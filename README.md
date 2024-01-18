@@ -35,6 +35,12 @@ After height value, data can be blank like above or set a value for distance bet
 
 ![alt text](https://github.com/nikos230/Elevation-Network-Geodesy/blob/main/elev_network.jpg)
 
+---
+
+# Improvments, bugs and suggestions
+If you like to suggest anything on this scirpt please contact me in nikolas619065@gmail.com
+
+---
 
 # Greek - Υψομετρικο Δικτυο
 Το παραπάνω πρόγραμμα έχει γραφτεί σε Python 3.9 και μπορεί να χρησιμοποιηθεί για την συνόρθωση ενός υψομετρικού δικτιού. Δεν είναι για επαγγελματική χρήση καθώς μπορεί να περιέχει bugs τα οποία δεν έχουν ακόμα λυθεί.
