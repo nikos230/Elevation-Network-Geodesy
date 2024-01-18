@@ -135,7 +135,7 @@ def print_u_in_pdf(u, dh_name):
 
 
 if __name__ == "__main__":
-    data_file_name = "C:\\Users\\nikos\\OneDrive\\Files\\Projectakia\\Geodesy_Projects\\Dedomena\\Yhometriko_Diktio\\demo_data.txt"
+    data_file_name = "demo_data.txt"
 
     # Apothikeusi output se ena arxeio pdf
     pdf = FPDF()
